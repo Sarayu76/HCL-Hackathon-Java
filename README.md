@@ -1,35 +1,37 @@
-# HCL-Hackathon-Java
-Java coding problems and OOP concepts practiced for HCL Hackathon.
 
-# HCL Hackathon - Java Practice
 
-## Problem 1: Employee Salary Processing
+# HCL Hackathon – Java Coding Questions
 
-### Concepts Used
-- Abstraction
-- Encapsulation
+This repository contains 10 Java programming problems solved as part of my HCL Hackathon preparation.
+
+## Questions and Concepts
+
+| No. | Problem Name | OOP Concepts |
+|---|---|---|
+| 1 | Employee Salary Processing | Abstraction, Polymorphism |
+| 2 | Banking Account Management | Inheritance, Method Overriding |
+| 3 | Online Payment Processing | Interface, Polymorphism |
+| 4 | Vehicle Rental System | Inheritance, super() |
+| 5 | Employee Performance Bonus | Method Overloading, Overriding |
+| 6 | Food Delivery Order | Inheritance, Polymorphism |
+| 7 | Employee Access and Permission System | Interface |
+| 8 | Online Course Fee Calculation | Abstraction |
+| 9 | Hospital Billing System | Abstraction, Method Overriding |
+| 10 | E-Commerce Product Pricing | Inheritance, Polymorphism |
+
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+
+## Concepts Covered
+- Classes and Objects
+- Constructors
 - Inheritance
+- Abstraction
+- Interfaces
+- Method Overloading
 - Method Overriding
 - Runtime Polymorphism
-- Constructors
-- Super Keyword
 
-### Problem Description
-A company payroll system calculates employee salaries based on employee type.
-
-### Employee Types
-1. FullTimeEmployee - Salary = Monthly Salary
-2. ContractEmployee - Salary = Working Days * Daily Rate
-
-### Programming Language
-Java
-
-### Sample Input
-2
-105 Arun
-24 1500.0
-
-### Sample Output
-Employee ID: 105
-Employee Name: Arun
-Salary: 36000.00
+## Purpose
+To improve Java programming skills and strengthen my understanding of OOP concepts through practical coding problems.
